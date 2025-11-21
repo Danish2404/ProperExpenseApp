@@ -3,9 +3,11 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
-import { Item } from './Page/Item'
-import { Expense } from './Page/Expense'
-import { Addexpense } from './Page/Addexpense'
+import { Item } from './page/Item'
+import { Expense } from './page/Expense'
+import { Addexpense } from './page/Addexpense'
+
+
 
 function App() {
   
